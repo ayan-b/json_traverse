@@ -1,0 +1,14 @@
+name: json_traverse
+version: 0.0.1
+
+description: Parse complex JSON using simple query strings.
+author: Ayan Banerjee <ayanbn7@gmail.com>
+homepage: https://github.com/ayan-b/json_traverse
+
+environment:
+  sdk: ">=2.4.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+  test: ">=0.12.0 <2.0.0"
