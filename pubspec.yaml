@@ -1,7 +1,7 @@
 name: json_traverse
 version: 0.0.1
 
-description: Parse complex JSON using simple query strings.
+description: Parse deeply nested JSON using simple query strings.
 author: Ayan Banerjee <ayanbn7@gmail.com>
 homepage: https://github.com/ayan-b/json_traverse
 
