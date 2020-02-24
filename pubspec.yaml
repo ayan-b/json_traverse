@@ -1,5 +1,5 @@
 name: json_traverse
-version: 0.0.1
+version: 0.0.2
 
 description: Parse deeply nested JSON using simple query strings.
 homepage: https://github.com/ayan-b/json_traverse
