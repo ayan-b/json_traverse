@@ -4,6 +4,7 @@
 
 - Pedantic style checking
 - Detailed instructions in README
+- Add documentations
 
 ## 0.0.1
 

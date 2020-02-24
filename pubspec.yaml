@@ -1,7 +1,7 @@
 name: json_traverse
 version: 0.0.2
 
-description: Parse deeply nested JSON using simple query strings.
+description: Parse deeply nested JSON using simple query strings with dot separator.
 homepage: https://github.com/ayan-b/json_traverse
 
 environment:
