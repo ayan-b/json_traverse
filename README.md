@@ -10,6 +10,9 @@
 	<br>
 </div>
 
+[![Pub Package](https://img.shields.io/pub/v/json_traverse.svg)](https://pub.dev/packages/json_traverse)
+[![Build Status](https://travis-ci.com/ayan-b/json_traverse.svg?branch=master)](https://travis-ci.com/ayan-b/json_traverse)
+
 ```dart
 import 'package:json_traverse/json_traverse.dart';
 
