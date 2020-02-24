@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://ayan-b.github.io/maple-tree.jpg" width="200" height="200">
+	<img src="https://ayan-b.github.io/json_traverse/maple-tree.jpg" width="200" height="200">
 	<h1>JSON Traverser</h1>
 	<p>
 		<b>Traverse a deeply nested JSON with a query string</b><br>
