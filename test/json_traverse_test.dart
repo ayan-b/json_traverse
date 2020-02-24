@@ -60,7 +60,7 @@ void main() {
     } on FormatException catch (e) {
       expect(
           e.message,
-          'Next item to traverse is an array. Expected an index of type `int`'
+          'Next item to traverse is an array. Expected an index of type `int` '
           'but found `String`');
       return;
     }
