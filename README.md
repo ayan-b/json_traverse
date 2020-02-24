@@ -41,3 +41,7 @@ Now, use the `query` method to traverse through the JSON: `traverser.query("name
 If you want to traverse through an array, you have to mention the index, _e.g._,
 `traverser.query("contact.1")` for index `1` of the contact array. If the index
 is not a valid number, the code will throw a `FormatException`.
+
+## License
+
+[BSD-3-Clause](./LICENSE)
