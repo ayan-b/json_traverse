@@ -1,7 +1,7 @@
 import 'package:json_traverse/json_traverse.dart';
 
 void main() {
-  String jsonString = """
+  var jsonString = '''
   {
     "name": "John Smith",
     "email": "john@example.org",
@@ -10,10 +10,10 @@ void main() {
       "456"
     ]
   }
-  """;
-  JSONTraverse traverser = JSONTraverse(jsonString);
+  ''';
+  var traverser = JSONTraverse(jsonString);
   // for a single string
-  print(traverser.query("name"));
+  print(traverser.query('name')); // Prints `John Smith`
   // for an array, point the index
-  print(traverser.query("contact.1"));
+  print(traverser.query('contact.1')); // Prints `456`
 }
